@@ -1,0 +1,2 @@
+# ngx_mail_core_module
+ngx_mail_core_module
